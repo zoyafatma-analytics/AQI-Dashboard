@@ -51,7 +51,7 @@ The dashboard uses an Excel dataset containing:
 ---
 
 ## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
+![AQI Dashboard](https://github.com/zoyafatma-analytics/AQI-Dashboard/blob/main/AQI%20Dashboard_Screenshot.png)
 
 ---
 
